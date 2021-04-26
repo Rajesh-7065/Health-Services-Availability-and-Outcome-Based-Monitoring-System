@@ -1,0 +1,26 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+body{
+  background: url(bg1.jpg) no-repeat;
+  background-size: 100% 900px;
+}
+h1{
+font-family: calibri;
+font-size:50px;
+}
+
+h2{
+font-family: calibri;
+font-size:45px;
+color: red;
+}
+p{
+font-family: calibri;
+font-size: 25px;
+margin: 15px;
+}
+ul{
+font-family: calibri;
+margin-left: 30px;
+font-size: 22px;
+color: green;
+}
